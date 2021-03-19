@@ -1,7 +1,7 @@
 # Twitter Crypto Sentiment Analysis
 Using Twint to bypass twitter API call limit.
 
-## How do *I* start?
+## How do **I** start?
 
 Tested on an Ubuntu 18.04 Hyper-V Virtual Machine as root
 
